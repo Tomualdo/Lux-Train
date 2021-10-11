@@ -1,6 +1,7 @@
 # Lux AI Season 1 Kits
 
 ## [SPECIFICATION_LINK](https://www.lux-ai.org/specs-2021)
+## [VISUALIZER](https://2021vis.lux-ai.org/)
 
 This folder contains all official kits provided by the Lux AI team for the Lux AI Challenge Season 1.
 
